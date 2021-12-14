@@ -1,0 +1,15 @@
+1. En yavaş 3 atın aynı grupta olabileceği ihtimalinden dolayı atları her turda ilk 2'sini eleyecek şekilde koştururuz.
+2. 
+    1.tur sonunda 23 At
+    2.tur sonunda 21 At
+    3.tur sonunda 19 At
+    4.tur sonunda 17 At
+    5.tur sonunda 15 At
+    6.tur sonunda 13 At
+    7.tur sonunda 11 At
+    8.tur sonunda 9 At
+    9.tur sonunda 7 At
+    10.tur sonunda 5 At
+    11.tur sonunda en yavaş 3 At kalır.
+
+
