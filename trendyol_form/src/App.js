@@ -12,6 +12,8 @@ function App() {
   const [trendyolEkle, setTrendyolEkle] = React.useState(false)
   const [yemekSepetiEkle, setYemekSepetiEkle] = React.useState(false)
 
+  
+
   const handleClickButton = (e) => {
     getir ? (
       setGetirEkle(true)
